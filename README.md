@@ -32,4 +32,7 @@ Jalankan aplikasi dengan mengeksekusi kelas AplikasiPerhitunganDiskon di dalam I
 - Klik tombol Hitung untuk mendapatkan harga akhir dan penghematan.
 - Riwayat perhitungan akan muncul di area riwayat di bagian bawah aplikasi.
 
+# Demo
+![App Screenshot](img/Tugas1.png)
+
   
