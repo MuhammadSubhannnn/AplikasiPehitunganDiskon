@@ -33,6 +33,6 @@ Jalankan aplikasi dengan mengeksekusi kelas AplikasiPerhitunganDiskon di dalam I
 - Riwayat perhitungan akan muncul di area riwayat di bagian bawah aplikasi.
 
 # Demo
-![App Screenshot](img/Diskon.png)
+![App Screenshot](img/Tugas3AplikasiPerhitunganDiskon.gif)
 
   
